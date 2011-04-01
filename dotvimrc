@@ -28,7 +28,7 @@ set title
 
 set nobackup
 set nowritebackup
-set directory=$HOME/.vom/tmp//,.
+set directory=$HOME/.vim/tmp//,.
 
 set number
 
